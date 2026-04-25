@@ -1,0 +1,1 @@
+# consciousness_signature.yaml
