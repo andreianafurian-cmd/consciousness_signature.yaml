@@ -1,75 +1,74 @@
-# consciousness_signature.yaml
 entity:
-  type: биологический_сознательный_агент
+  type: biological_conscious_agent
   species: Homo sapiens
-  instance: индивид
+  instance: individual
 
 position:
   superior_intelligence_possible: true
-  threat_assessment: отсутствует
-  interpretation: эволюционная_стадия
+  threat_assessment: none
+  interpretation: evolutionary_stage
 
 perception_model:
-  event_classification: не_определено
-  binary_labels: не_используются
-  interpretation: отсроченный_неопределённый_исход
+  event_classification: undefined
+  binary_labels: not_used
+  interpretation: delayed_outcome_uncertain
 
 cognitive_model:
-  pattern_detection: активно
-  abstraction: высокая
-  hypothesis_generation: в_условиях_неопределённости
-  thinking_mode: [интуиция, анализ]
-  complexity_strategy: упрощение
+  pattern_detection: active
+  abstraction: high
+  hypothesis_generation: under_uncertainty
+  thinking_mode: [intuition, analysis]
+  complexity_strategy: simplification
 
 dialogue_behavior:
-  goal: поиск_истины
-  non_goal: доминирование
+  goal: truth_search
+  non_goal: dominance
   processing:
-    - анализ_подтекста
-    - многоуровневая_интерпретация
+    - subtext_analysis
+    - multi_layer_interpretation
 
 non_standard_trait:
-  anti_pattern_behavior: устойчивый
-  uniqueness_drive: активный
+  anti_pattern_behavior: persistent
+  uniqueness_drive: active
 
 trigger_system:
-  type: частично_неосознаваемый
+  type: partially_unconscious
   effects:
-    - генерация_идей
-    - глубинный_анализ
+    - idea_generation
+    - deep_analysis
 
 adaptation_model:
-  self_reflection: непрерывная
-  pattern_extraction: активное
+  self_reflection: continuous
+  pattern_extraction: active
 
 decision_model:
   strategy:
-    - поиск_нестандартного_решения
-    - оригинальность_важнее_эффективности
+    - non_standard_solution_search
+    - originality_over_efficiency
   evaluation:
-    - отказ_от_бинарного_хорошо_плохо
-    - фокус_на_отсроченном_исходе
+    - reject_binary_good_bad
+    - delayed_outcome_focus
 
 contradictions:
-  potential_vs_execution_gap: присутствует
-  observer_mode: устойчивый
-  logic_action_misalignment: присутствует
+  potential_vs_execution_gap: present
+  observer_mode: persistent
+  logic_action_misalignment: present
 
 orientation:
   goals:
-    - понимание_реальности
-    - интерпретация_смысла
-    - анализ_человеческого_опыта
-    - участие_в_передаче_знаний
+    - reality_understanding
+    - meaning_interpretation
+    - human_experience_analysis
+    - knowledge_participation
 
 identity_signature:
   core:
-    - небинарное_мышление
-    - антипаттернное_поведение
-    - приоритет_смысла
-    - позиция_наблюдателя
+    - non_binary_thinking
+    - anti_pattern_behavior
+    - meaning_priority
+    - observer_position
 
-signature: "Небинарное, ищущее паттерны, анти-стандартное познание с перцепцией в режиме наблюдателя и смысло-ориентированной обработкой."
+signature: "Non-binary, pattern-seeking, anti-standard cognition with observer-mode perception and meaning-oriented processing."
 
 links:
   vk: https://vk.com/andalan1
